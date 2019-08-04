@@ -2,7 +2,7 @@
 
 
 ### prepare environment
-# create forlders for scripts and data
+# create folders for scripts and data
 mkdir -p scripts
 mkdir -p fasta_files
 cp $1 fasta_files/its.fasta
