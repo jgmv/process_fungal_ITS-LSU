@@ -16,7 +16,6 @@ then
   echo "./scripts/bash_seq_analysis found"
 else
   git clone https://github.com/jgmv/bash_seq_analysis.git scripts/bash_seq_analysis
-
 fi
 
 for i in $(ls scripts/bash_seq_analysis/*.sh)
